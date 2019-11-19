@@ -1,0 +1,17 @@
+{
+    "name": "aleksanthaar/deep-testing",
+    "description": "PhpUnit in depth testing utilities",
+    "type": "library",
+    "license": "GPL v3",
+    "autoload": {
+        "psr-4": {
+            "Aleksanthaar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alhuo-smile",
+            "email": "alexandre.huon@smile.fr"
+        }
+    ]
+}
