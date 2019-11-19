@@ -2,7 +2,7 @@
 
 PhpUnit in depth testing utilities.
 
-##Usage 
+## Usage 
 
 In any class extending **PHPUnit\Framework\TestCase**, use **Aleksanthaar\DeepTesting\DeepTestingTrait**:
 
